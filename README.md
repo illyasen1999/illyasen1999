@@ -19,14 +19,6 @@ randomly choose a Framework and the results on both websites is Vue.
 
 ![Frameworks](./imgs/framework-to-focus.svg)
 
-<style>
-    .results{
-        display: flex;
-        gap: 4rem;
-        justify-content: center;
-    }
-</style>
-
 <center>
     <h1>Tech I will be focusing in 2023 is:</h1>
 </center>
