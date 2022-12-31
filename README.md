@@ -31,7 +31,7 @@ randomly choose a Framework and the results on both websites is Vue.
     <h1>Tech I will be focusing in 2023 is:</h1>
 </center>
 
-<center class="results">
+<center class="results" style="display: flex; gap: 4rem; justify-content: center;">
     <section>
         <h1>Language</h1>
         <h2 style="color:#f1e05a; font-weight:600; font-size: 40px;">Javascript</h2> 
