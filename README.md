@@ -1,9 +1,9 @@
-# I will focus on these technologies in 2023
+# I will focus on this technology in 2023
 
 These were chosen via 2 random choice making websites [Textfixer](https://www.textfixer.com/tools/random-choice.php) and [Jklp](http://jklp.org/html/choose.html) \
 and these are the results I got. And I will still upload even if it looks like noob code.
 
-## Languages
+## Language
 
 First I had the choices of picking High or Low level programming languages \
 and then I choose 4 different options for languages and since both sites had \
